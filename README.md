@@ -127,3 +127,8 @@ See the list of [contributors](https://github.com/PatsonPINTO/QuizGame-PatsonPIN
 - Inspiration for creating a fun and interactive quiz game.
 - Thanks to open-source tools and the developer community for their contributions.
 - Guidance from the "Contribute to the Open Source Movement" workshop materials.
+
+--- 
+
+## Contributors
+- **NOMED Anton** - [Coraz0nn](https://github.com/Coraz0nn)
