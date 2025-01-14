@@ -116,7 +116,7 @@ This project aligns with open source principles, emphasizing transparency, colla
 
 ## Authors
 
-- **Patson Pinto** - Initial work ([GitHub Profile](https://github.com/PatsonPINTO))
+- **Anton NOMED** - Initial work ([GitHub Profile](https://github.com/PatsonPINTO))
 
 See the list of [contributors](https://github.com/PatsonPINTO/QuizGame-PatsonPINTO-CDOF5/graphs/contributors) who participated in this project.
 

@@ -1,0 +1,20 @@
+{
+    "question": [
+      "Q1. Quelle ville indienne est la capitale de deux États ?",
+      "Q2. Quelle ville est la capitale de l'Inde ?",
+      "Q3. Quel est le plus petit État de l'Inde ?",
+      "Q4. Où se trouve le Taj Mahal ?"
+    ],
+    "answer": [
+      1,
+      2,
+      3,
+      2
+    ],
+    "options": [
+      ["Chandigarh", "Kolkata", "Delhi", "Bangalore"],
+      ["Jaipur", "Delhi", "Chennai", "Mumbai"],
+      ["Rajasthan", "Punjab", "Goa", "Bihar"],
+      ["Lucknow", "Agra", "Bhopal", "Delhi"]
+    ]
+  }
