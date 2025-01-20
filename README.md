@@ -1,8 +1,23 @@
-# QuizGame-PatsonPINTO-CDOF5
+# QuizGame
 
-A simple console-based quiz game where players answer a series of questions to test their knowledge and attempt to win the game. This project is designed to be fun, educational, and beginner-friendly for developers who wish to contribute.
+QuizGame is a simple console-based quiz game where players answer a series of questions to test their knowledge and attempt to win the game. This project is designed to be fun, educational, and beginner-friendly for developers who wish to contribute.
 
----
+## Table of Contents
+
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Running the Tests](#running-the-tests)
+- [Contributing](#contributing)
+- [Built With](#built-with)
+- [License](#license)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgments)
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine for development and testing purposes.
 
 ## Getting Started
 
@@ -122,8 +137,13 @@ See the list of [contributors](https://github.com/PatsonPINTO/QuizGame-PatsonPIN
 
 ---
 
-## Acknowledgments
+Acknowledgments
 
-- Inspiration for creating a fun and interactive quiz game.
-- Thanks to open-source tools and the developer community for their contributions.
-- Guidance from the "Contribute to the Open Source Movement" workshop materials.
+    Inspiration for creating a fun and interactive quiz game.
+    Thanks to open-source tools and the developer community for their contributions.
+    Guidance from the "Contribute to the Open Source Movement" workshop materials.
+
+
+This README should provide a comprehensive guide for users and contributors to understand, set up, and contribute to the QuizGame project.
+
+
