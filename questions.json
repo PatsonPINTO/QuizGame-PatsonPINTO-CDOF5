@@ -1,20 +1,35 @@
 {
-    "question": [
-      "Q1. Quelle ville indienne est la capitale de deux États ?",
-      "Q2. Quelle ville est la capitale de l'Inde ?",
-      "Q3. Quel est le plus petit État de l'Inde ?",
-      "Q4. Où se trouve le Taj Mahal ?"
-    ],
-    "answer": [
-      1,
-      2,
-      3,
-      2
-    ],
-    "options": [
-      ["Chandigarh", "Kolkata", "Delhi", "Bangalore"],
-      ["Jaipur", "Delhi", "Chennai", "Mumbai"],
-      ["Rajasthan", "Punjab", "Goa", "Bihar"],
-      ["Lucknow", "Agra", "Bhopal", "Delhi"]
-    ]
-  }
+  "question": [
+    "Q1. Quelle ville indienne est la capitale de deux Etats ?",
+    "Q2. Quelle ville est la capitale de l'Inde ?",
+    "Q3. Quel est le plus petit Etat de l'Inde ?",
+    "Q4. Ou se trouve le Taj Mahal ?",
+    "Q5. Quel est le fleuve le plus long de l'Inde ?",
+    "Q6. Quel est le plus grand etat indien en termes de superficie ?",
+    "Q7. Quel est le sport national de l'Inde ?",
+    "Q8. Quel est le plat traditionnel du sud de l'Inde ?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    1,
+    3,
+    2
+
+
+  ],
+  "options": [
+    ["Chandigarh", "Kolkata", "Delhi", "Bangalore"],
+    ["Jaipur", "Delhi", "Chennai", "Mumbai"],
+    ["Rajasthan", "Punjab", "Goa", "Bihar"],
+    ["Lucknow", "Agra", "Bhopal", "Delhi"],
+    ["Ganga", "Yamuna", "Brahmapoutre", "Godavari"],
+    ["Rajasthan", "Uttar Pradesh", "Madhya Pradesh", "Maharashtra"],
+    [ "Cricket", "Football","Hockey", "Kabaddi"],
+    [ "Biryani","Dosa", "Butter chicken", "Pani puri"]
+
+  ]
+}
