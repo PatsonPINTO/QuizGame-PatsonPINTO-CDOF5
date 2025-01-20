@@ -111,6 +111,15 @@ We welcome contributions! Please follow these steps to contribute:
 
 ---
 
+
+### Features
+
+    Multiple Choice Questions: The quiz includes a variety of multiple-choice questions.
+    Score Tracking: Keeps track of the number of correct and incorrect answers.
+    User-Friendly Interface: Simple and intuitive console-based interface.
+    Extendable: Easily add new questions and options by updating the JSON data file.
+
+
 ## Built With
 
 - **Python** - Programming language used
@@ -145,5 +154,8 @@ Acknowledgments
 
 
 This README should provide a comprehensive guide for users and contributors to understand, set up, and contribute to the QuizGame project.
+
+
+
 
 
